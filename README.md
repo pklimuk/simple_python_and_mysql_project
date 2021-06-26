@@ -1,2 +1,2 @@
-# Program wspomagający Dział Obsługi Doktorantów na uczelni(napisany w roku 2019)
+# Program wspomagający Dział Obsługi Doktorantów na uczelni
 ## Szczegółowa dokumentacja znajduje się w pliku `Dokumentacja.pdf`
